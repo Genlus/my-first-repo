@@ -6,7 +6,7 @@ During development of this landing page, I used the following technologies of HT
 
 <ol> HTML:
   <ol>
-  <li> Semantically correct CODE STYLE</li></ol>
+  <li> Semantically correct CODE STYLE</li></ol></ol>
   1.2. BEM Methodology
 
 2. CSS:
